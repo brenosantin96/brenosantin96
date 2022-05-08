@@ -9,7 +9,7 @@
 <div>
   <ul>
     <li>🏙️ I’m actually living in Spain at Madri </li>
-    <li>🌱 I’m currently learning fullstack web development, but with a greater focus in backend.</li>
+    <li>🌱 I’m currently and always will be learning fullstack web development.</li>
     <li>🎓 I have a degree in Information Systems from the University of Patos de Minas - UNIPAM.</li>
     <li>⚽ My hobbies are games, travel, meet new places and make friends.</li>
     <li>💻 My Website: <a href="https://brenosantin.com"> brenosantin.com </a></li>
