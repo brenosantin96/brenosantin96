@@ -1,8 +1,11 @@
 ### Hello, Welcome to my profile! My name is Breno! 👋
 
 <div align="center">
-  <a href="https://github.com/brenosantin96"></a>
-  ![My user statistics](images/userstats.svg)
+  
+<a href="https://github.com/brenosantin96">
+  <img src="images/userstats.svg" alt="My user statistics">
+</a>
+
 </div>
 
 <br>
