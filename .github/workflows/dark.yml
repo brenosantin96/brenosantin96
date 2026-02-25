@@ -12,6 +12,10 @@ on:
     paths: [ '.github/workflows/dark.yml' ]
   workflow_dispatch:
 
+
+permissions:
+  contents: write
+
 jobs:
   stats:
     runs-on: ubuntu-latest
